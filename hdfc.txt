@@ -1,3 +1,4 @@
 my brother name is Santosh joshi
 i am with unicorn
 this is how to create branch in git
+this is how work on a master as well as another branch.
